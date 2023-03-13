@@ -51,11 +51,8 @@ class FixedPoint
 			while (d != 1 && c < bit)
 			{
 				d *= 2;
-				
 				r += d >= 1 ? "1" : "0"; 
-				
 				if (d > 1) d -= 1;
-				
 				c++;
 			}
 			
