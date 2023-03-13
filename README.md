@@ -1,2 +1,2 @@
 # fixed-point
-Fixed point in c++
+Fixed point in C++
